@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
  <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=aeristhy&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=abdullahqasemi&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aeristhy&theme=onedark&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqasemi&theme=onedark&hide_border=true"/>
     </a>
