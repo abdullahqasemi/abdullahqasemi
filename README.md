@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahqasemi&label=Profile%20views&color=0e75b6&style=flat" alt="rohullahmuhammadee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahqasemi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahqasemi" /> </p>
 
  <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=abdullahqasemi&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
