@@ -1,28 +1,60 @@
-### Hi there 👋
+<!-- GitHub Profile README: abdullahqasemi -->
 
-<!--
-**abdullahqasemi/abdullahqasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Abdullah Qasemi 👋</h1>
+<p align="center">
+  💻 Full Stack Web & Mobile Developer • 🧠 Strategic Thinker • 🌙 Night Owl Coder
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahqasemi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahqasemi" /> </p>
+### 🧩 About Me
 
- <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=abdullahqasemi&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqasemi&theme=onedark&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=abdullahqasemi&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight"/>
-    </a>
+I'm a self-motivated full stack developer passionate about building performant, scalable, and clean digital experiences. Whether it's crafting modern UIs, engineering APIs, or deploying mobile apps — I bring strategic focus and quiet confidence to every project.
 
+- 🔧 I work with **React**, **Next.js**, **NestJS**, **Flutter**, **React Native**, **Laravel**, **Firebase**, and **WordPress**
+- 🎨 Styling with **Tailwind CSS**, **Flowbite**, and component libraries
+- 💽 Databases: **PostgreSQL**, **MySQL**
+- ⚙️ Dev Tools: **React Query**, **VS Code**, **Android Studio**, **Postman**
+- ☕ I code best after midnight with a can of caffeine
+
+---
+
+### 🚀 Tech Stack
+
+```ts
+const techStack = {
+  frontend: ['React', 'Next.js', 'Tailwind CSS', 'Flutter', 'React Native'],
+  backend: ['NestJS', 'Laravel', 'Node.js', 'Firebase Functions'],
+  database: ['PostgreSQL', 'MySQL', 'Firebase Firestore'],
+  tools: ['React Query', 'Git', 'Docker', 'Firebase', 'VS Code', 'Android Studio'],
+  cloud: ['Firebase (Auth, Firestore, Storage)', 'Vercel', 'Netlify', 'Coolify']
+};
+```
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/abdullah-qasemi-434939227/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abdullahqasemi2019@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abdullahqasemi&show_icons=true&theme=onedark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqasemi&theme=onedark"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahqasemi&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
